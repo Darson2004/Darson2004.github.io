@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Chris Smeells
 
 # Your name to show in the footer
-author: Some Person
+author: Some Person that thinks Chris Smeells
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I am the author, a person that thinks Chris Smeells"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Chris Smeells: "https://beautifuljekyll.com"
+    - Chris Smeells: "https://www.markdowntutorial.com/"
+  Author's home where Chris Smeells: "https://deanattali.com"
 
 # --- Logo --- #
 
