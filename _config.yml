@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: Chris Smeells
+title: WuKong
 
 # Your name to show in the footer
-author: Some Person that thinks Chris Smeells
+author: Darson Chen
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am the author, a person that thinks Chris Smeells"
+  About Me: "I am some person that thinks Chris Kaiser smells
   Resources:
-    - Chris Smeells: "https://beautifuljekyll.com"
-    - Chris Smeells: "https://www.markdowntutorial.com/"
-  Author's home where Chris Smeells: "https://deanattali.com"
+    - Chris Smells: "https://beautifuljekyll.com"
+    - Chris Stinks: "https://www.markdowntutorial.com/"
+  Chris Reeks: "https://deanattali.com"
 
 # --- Logo --- #
 
