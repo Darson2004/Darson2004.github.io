@@ -10,7 +10,7 @@ tags: [test]
 There are many pencils that are either good or bad in design, have a look at this pencil:
 ![Picture](https://truecourseblog.files.wordpress.com/2011/08/short-pencil.jpg)
 
-This pencil is too small and tiny where you cannot put your hand on it. Additionally, the pencil tip is too sharp, meaning it is very susceptible to breaking easily so you will have to resharpen the pencil again. This resharpening will make the pencil so small that it will be not usable. Finally, because you will probably never use this pencil, the eraser will get very dirty and no longer erase anything. In the future, when you have not used this pencil after a couple of weeks, the eraser will be so bad that it will smudge what you wanted to erase with the dirt it accumulated for the past few weeks.
+This pencil is too small and tiny where you cannot put your hand on it. Additionally, the pencil tip is relatively sharp and also brittle, meaning it is very susceptible to breaking easily so you will have to resharpen the pencil again. This resharpening will make the pencil so small that it will be not usable. Finally, because you will probably never use this pencil, the eraser will get very dirty and no longer erase anything. In the future, when you have not used this pencil after a couple of weeks, the eraser will be so bad that it will smudge what you wanted to erase with the dirt it accumulated for the past few weeks.
 
 Now, take a look at this pencil:
 ![Picture](https://cdn.luxatic.com/wp-content/uploads/2013/07/Perfect-Pencil-1.jpg)
