@@ -17,7 +17,7 @@ navbar-links:
   About Me: "I am some person that thinks Chris Kaiser smells
   Chris Smells:
     - Chris Smells: "https://beautifuljekyll.com"
-    - Chris Stinks: "https://www.markdowntutorial.com/"
+    - Markdown: "https://www.markdowntutorial.com/"
   Chris Reeks: "https://deanattali.com"
 
 # --- Logo --- #
@@ -63,7 +63,7 @@ round-avatar: true
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: East Asian History Project is so time consuming, I actually have to write nine paragraphs for 9 various sources.
+rss-description: East Asian History 10/10.
 
 # --- General options --- #
 
