@@ -14,7 +14,7 @@ author: Darson Chen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am some person that thinks Chris Kaiser smells
+  About Me: "I am some person that thinks Chris Kaiser smells"
   Chris Smells:
     - Chris Smells: "https://beautifuljekyll.com"
     - Markdown: "https://www.markdowntutorial.com/"
