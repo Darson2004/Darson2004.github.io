@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Good vs. Bad Design
+title: Good vs Bad Design
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [good, bad, design]
+tags: [test]
 
 ---
 
